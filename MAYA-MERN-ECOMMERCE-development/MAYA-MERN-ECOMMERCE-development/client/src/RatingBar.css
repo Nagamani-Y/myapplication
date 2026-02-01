@@ -1,0 +1,14 @@
+/* .rating-bar {
+  display: flex;
+  gap: 8px;
+}
+
+.star {
+  font-size: 2rem;
+  color: lightgray;
+  transition: color 0.2s ease;
+}
+
+.star.filled {
+  color: gold;
+} */

@@ -1,0 +1,16 @@
+/* Navbar dropdown fix */
+.dropdown-menu {
+  z-index: 2000 !important;
+}
+
+/* Smooth collapse animation on mobile */
+.collapsing {
+  transition: height 0.35s ease !important;
+}
+
+/* Optional: background for mobile collapsed menu */
+.navbar-collapse {
+  background: linear-gradient(90deg, #0d6efd, #20c997) !important;
+  border-radius: 0 0 12px 12px !important;
+  padding: 1rem !important;
+}
